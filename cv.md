@@ -18,8 +18,8 @@
 >> Angular
 
 ---
-*I do not have experience yet
+* I do not have experience yet
 ---
-*Faculty of engineering - Georgian technical University
+* Faculty of engineering - Georgian technical University
 ---
-*English - C2
+* English - C2
