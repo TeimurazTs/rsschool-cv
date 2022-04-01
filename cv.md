@@ -19,5 +19,7 @@
 
 ---
 **I do not have experience yet**
+---
 **Faculty of engineering - Georgian technical University**
+---
 **English - C2**
